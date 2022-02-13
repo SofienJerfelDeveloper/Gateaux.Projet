@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateaux.Projet", "Gateaux.Projet\Gateaux.Projet.csproj", "{22825417-076C-4532-A39E-323B668E713B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22825417-076C-4532-A39E-323B668E713B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22825417-076C-4532-A39E-323B668E713B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22825417-076C-4532-A39E-323B668E713B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22825417-076C-4532-A39E-323B668E713B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10D7E469-D550-4E5D-8476-FD7124E4607A}
+	EndGlobalSection
+EndGlobal
